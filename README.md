@@ -1,15 +1,14 @@
 
 # Project Title
 
-A brief description of what this project does and where in the Seismic ecosystem the component/app is used
-
+A brief description of what this project does and where in the Seismic ecosystem the component/app is used and how to identify it
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Documentation
 
-Links to Architecture diagrams, designs, requirements
+Links to Architecture diagrams, designs, requirements, BFF
 
 [Documentation](https://linktodocumentation)
 
@@ -42,6 +41,12 @@ Clone the project
 
 ```bash
   git clone https://link-to-project
+```
+
+Install node version
+
+```bash
+   nvm use
 ```
 
 Go to the project directory
@@ -100,7 +105,10 @@ See `CONTRIBUTING.md` for ways to get started.
 
 ## Support
 
-For support, email fake@seismic.com,  join our Slack channel #fake-team-channel or log a ticker in our Jira project https://seismic.atlassian.net/browse/FAKEPROJECT.
+For support: 
+- email fake@seismic.com
+- join our Slack channel #fake-team-channel
+- log a ticket in our Jira project https://seismic.atlassian.net/browse/FAKEPROJECT
 
 
 ## Authors
